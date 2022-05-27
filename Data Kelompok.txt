@@ -10,4 +10,21 @@ Tamara,Elisabeth,Randy,Chairul,gilong Kelompok 1
 
 Adam,Rasya,Anwar,Novika,Nindy Kelompok 2
 
+Baseline = Hanya ada pada host (Orange)
+Target = Hanya ada pada saran/pemberi saran (Hijau)
+Keduanya = Ada pada host sebelumnya dan pemberi saran (Pink)
+
+Ibaratnya kita ngasih saran seperti ini,
+nah dari saran kita ini kira-kira mana yang udah ada 
+dan komponen mana yang ditambahkan dari kita.
+
+Fase ini berisi deskripsi dari
+arsitektur bisnis saat ini
+(baseline), di arsitektur bisnis yang sekarang sudah ada atau belum
+
+Anggap aja kita dispen keuangan di kampus
+Yang ada di kampus = isi formulir offline
+Yang ada di kita = Isi formulir online
+Yang ada di keduanya = Tanda tangan wadek
+
 
